@@ -35,7 +35,7 @@ Finally, we built the Linear Regression model using the SciKit Learn library.
 
 ## Results
 
-The Linear Regression model clearly showed there has historically been a close relationship between the GTA housing market and the markets of the surrounding regions.
+The Linear Regression model clearly showed there has historically been a close relationship between the GTA housing market and the markets of the surrounding regions. As our features were able to fairly accurately predict the next month's price in the GTA.
 
 ![results_chart](Image/model_results_chart.PNG)
 
