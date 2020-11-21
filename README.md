@@ -33,10 +33,15 @@ X_test_scaled = X_scaler.transform(X_test)
 
 Finally, we built the Linear Regression model using the SciKit Learn library.
 
-## Results 
+## Results
+
+The Linear Regression model clearly showed there has historically been a close relationship between the GTA housing market and the markets of the surrounding regions.
+
+![results_chart](Image/model_results_chart.PNG)
 
 Coefficient of Determination or R-squared was 82% for the model. R-squared provides a measure of how well observed outcomes are replicated by the model, based on the proportion of total variation of outcomes explained by the model. An R-squared of 1 or 100% would be a perfect prediction. An R-squared of 0.82 is fairly high, indicating there is a predictive relationship between our x-variable and our y-variable.
 
 Below is a snapshot of our results:
 
 ![Predictions_actuals](Image/predictions_actuals.PNG)
+
