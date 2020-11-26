@@ -1,7 +1,6 @@
 
-## Link for Final Presentation
+# Please Click ***[HERE](https://prezi.com/view/mg27FQkQ4VXZ3KDAmdRE/)*** to view the Final Presentation :)
 
-https://prezi.com/view/mg27FQkQ4VXZ3KDAmdRE/
 
 
 # Ontario Real Estate Analysis Post-Pandemic
@@ -92,8 +91,12 @@ While simulating the LSTM Model, we ran the danger of overfitting the model usin
 * Incorporate more cities in our analysis and also try to sub-divide GTA in smaller constituent municipalities like Toronto, Peel, Halton etc.
 * Do more analyses with more machine learning tools.
 
-# Data Sources
+# Data Resources
 
 * https://www.crea.ca/housing-market-stats/mls-home-price-index/
+* https://creastats.crea.ca/en-CA/
 * https://housepriceindex.ca/#maps=c11
-
+* https://www.movesmartly.com/lessons-learned-from-toronto-2017-real-estate-bubble
+* https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables
+* https://www.statista.com/statistics/604254/median-house-prices-ontario/
+* https://hvplot.holoviz.org/user_guide/Customization.html
