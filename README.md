@@ -1,3 +1,9 @@
+
+## Link for Final Presentation
+
+https://prezi.com/view/mg27FQkQ4VXZ3KDAmdRE/
+
+
 # Ontario Real Estate Analysis Post-Pandemic
 
 Project Goal: to analyze the state of the Ontario Real Estate market, particularly around the GTA, and determine what if any impact COVID has had.
@@ -82,6 +88,12 @@ While simulating the LSTM Model, we ran the danger of overfitting the model usin
 
 # What we could have done differently
 
+* Find a dataset for rental prices in GTA to observe and analyse the effects of COVID.
+* Incorporate more cities in our analysis and also try to sub-divide GTA in smaller constituent municipalities like Toronto, Peel, Halton etc.
+* Do more analyses with more machine learning tools.
 
 # Data Sources
+
+* https://www.crea.ca/housing-market-stats/mls-home-price-index/
+* https://housepriceindex.ca/#maps=c11
 
