@@ -6,6 +6,37 @@ Project Goal: to analyze the state of the Ontario Real Estate market, particular
 
 Much has been written in the last several months about the impact of COVID on the future of real estate in large cities. A common notion was that COVID has made people rethink living in large cities like Toronto and is leading to an exodus to the suburbs or more rural areas. In this project we hope to determine to what extent this phenomenon has taken place. More generally, we will explore the relationship between the real estate markets of the GTA and several surrounding smaller cities.
 
+# General Market Trends
+
+Shown below are the average house prices and Housing Price Index (HPI) for GTA and other key cities of Ontario from 2005-2020. As is common knowledge, the GTA tops the list in terms of average house price and the trend is visible across the time period. Also, there has been a steady growth rise in home prices over the years across all cities with a steep spike in 2017 when home prices rose exponentially only to drop back down towards the beginning of 2018. HPI also follows a similar trend but the difference in distribution can be observed in the Violin plot which is shown.
+
+![CB_Ontario](Image/CB_Ontario.PNG)
+
+![HPI_Ontario](Image/HPI_Ontario.PNG)
+
+![HPI_Ontario_Violin](Image/HPI_Ontario_Violin.PNG)
+
+# Recent Market Trends
+
+Considering the data from 2019-2020 we observe that the percentage growth for home prices and the HPI for GTA during that period while positive is lower than that of other cities.
+
+![Ontario_Prices_2019-2020](Image/Ontario_Prices_2019-2020.PNG)
+
+![Ontario_HPI_2019-2020](Image/Ontario_HPI_2019-2020.PNG)
+
+
+![Percent_Growth_2019-2020](Image/Percent_Growth_2019-2020.PNG)
+
+# COVID-19 Trends
+
+We are considering the COVID time frame from Jan 2020 - Sep 2020 for ease of convenience and analysis.
+we have data which shows that while the volume of house sales dropped during COVID, the prices did not see a drop but were stable and marginally increasing across all home segments. The same trend was observed across all cities and we are have shown below the graphical represenation of GTA for reference.
+One key point to note though is that the percent increase in house prices was lowest in the GTA and highest in Peterborough during the same period. This is in line with our theory that there is shift in purchase preferences of many home buyers who are now preferring to venture outside of GTA thus increasing the price of properties in other cities.
+
+![GTA_Prices_COVID](Image/GTA_Prices_COVID.PNG)
+
+![Ontario_Percent_Change_COVID](Image/Ontario_Percent_Change_COVID.PNG)
+
 
 # Linear Regression Model
 
@@ -44,4 +75,13 @@ Coefficient of Determination or R-squared was 82% for the model. R-squared provi
 Below is a snapshot of our results:
 
 ![Predictions_actuals](Image/predictions_actuals.PNG)
+
+# LSTM Model
+
+While simulating the LSTM Model, we ran the danger of overfitting the model using the available features hence we have not included the same in our analysis. The working file is however available as part of the submission.
+
+# What we could have done differently
+
+
+# Data Sources
 
